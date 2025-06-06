@@ -3676,6 +3676,25 @@
         "name": "YTEglence"
     },
     {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=gofilmizle.com&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/GitLatte/Sinetech",
+        "fileSize": 27154,
+        "status": 1,
+        "language": "tr",
+        "authors": [
+            "GitLatte"
+        ],
+        "tvTypes": [
+            "Movie"
+        ],
+        "version": 1,
+        "internalName": "GoFilmIzle",
+        "description": "GoFilmizle | Yerli ve Yabanc\u0131 Full HD Film izleme Sitesi - Diziler \u00e7al\u0131\u015fmaz.",
+        "url": "https://raw.githubusercontent.com/GitLatte/Sinetech/builds/GoFilmIzle.cs3",
+        "name": "GoFilmIzle"
+    },
+    {
         "iconUrl": "https://www.google.com/s2/favicons?domain=www.4kfilmizlesene.org&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/maarrem/cs-Kekik",
