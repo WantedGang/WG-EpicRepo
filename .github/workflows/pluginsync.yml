@@ -53,7 +53,8 @@ jobs:
             "https://github.com/aymanbest/Arabico/raw/main/plugins.json"
             "https://raw.githubusercontent.com/doGior/doGiorsHadEnough/builds/plugins.json"
             "https://raw.githubusercontent.com/ycngmn/CuxPlug/builds/plugins.json"
-            "https://raw.githubusercontent.com/bnyro/GermanProviders/builds/plugins.json" 
+            "https://raw.githubusercontent.com/bnyro/GermanProviders/builds/plugins.json"
+            "https://raw.githubusercontent.com/Sertel392/Makotogecici/main/plugins.json"
           )
           # Tüm kaynaklardan array objeleri tek dizide topla
           jq -n '[]' > plugins.json
