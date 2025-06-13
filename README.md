@@ -1,4 +1,4 @@
-# WG-EpicRepo
+#EpicRepo
 
 🎬 **CloudStream için Hazırlanan Tüm Eklentiler Tek Yerde!**
 
