@@ -1868,7 +1868,7 @@
     "iconUrl": "https://www.google.com/s2/favicons?domain=dizimag.net&sz=%size%",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/nikyokki/nik-cloudstream",
-    "fileSize": 26256,
+    "fileSize": 26254,
     "status": 1,
     "language": "tr",
     "authors": [
@@ -1877,7 +1877,7 @@
     "tvTypes": [
       "TvSeries"
     ],
-    "version": 8,
+    "version": 9,
     "internalName": "DiziMag",
     "description": "En son çıkan yabancı dizi ve filmleri DiziMag farkıyla full hd 1080p kalitede izle. Dizimag Geniş ve güncel arşiviyle dizi ve filmlerin tadını çıkartın.",
     "url": "https://raw.githubusercontent.com/nikyokki/nik-cloudstream/builds/DiziMag.cs3",
@@ -2247,7 +2247,7 @@
     "iconUrl": "https://www.google.com/s2/favicons?domain=https://jetfilmizle.de&sz=%size%",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/nikyokki/nik-cloudstream",
-    "fileSize": 20370,
+    "fileSize": 21805,
     "status": 1,
     "language": "tr",
     "authors": [
@@ -2257,7 +2257,7 @@
     "tvTypes": [
       "Movie"
     ],
-    "version": 26,
+    "version": 27,
     "internalName": "JetFilmizle",
     "description": "Binlerce Film İzleme Seçeneğiyle En İyi Film İzleme Sitesi",
     "url": "https://raw.githubusercontent.com/nikyokki/nik-cloudstream/builds/JetFilmizle.cs3",
@@ -2307,19 +2307,18 @@
     "iconUrl": "https://netfree2.cc/mobile/img/nf2/icon_x192.png",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/nikyokki/nik-cloudstream",
-    "fileSize": 36950,
+    "fileSize": 38297,
     "status": 1,
     "language": "hi",
     "authors": [
       "Horis, megix",
-      "keyiflerolsun",
-      "nikyokki"
+      "keyiflerolsun"
     ],
     "tvTypes": [
       "Movie",
       "TvSeries"
     ],
-    "version": 10,
+    "version": 11,
     "internalName": "NetflixMirror",
     "description": "Netflix, PrimeVideo Content in Multiple Languages",
     "url": "https://raw.githubusercontent.com/nikyokki/nik-cloudstream/builds/NetflixMirror.cs3",
@@ -2806,7 +2805,7 @@
     "iconUrl": "https://www.google.com/s2/favicons?domain=webteizle2.com&sz=%size%",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/nikyokki/nik-cloudstream",
-    "fileSize": 22420,
+    "fileSize": 22421,
     "status": 1,
     "language": "tr",
     "authors": [
@@ -2816,7 +2815,7 @@
     "tvTypes": [
       "Movie"
     ],
-    "version": 32,
+    "version": 33,
     "internalName": "WebteIzle",
     "description": "Her türlü filmi ister dublaj ister altyazılı, en kaliteli bir şekilde izleyebileceğiniz arşivi en geniş gerçek film izleme siteniz.",
     "url": "https://raw.githubusercontent.com/nikyokki/nik-cloudstream/builds/WebteIzle.cs3",
@@ -3020,7 +3019,7 @@
     "iconUrl": "https://www.google.com/s2/favicons?domain=https://dizikorea.vip&sz=%size%",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/feroxx/Kekik-cloudstream",
-    "fileSize": 20351,
+    "fileSize": 20350,
     "status": 1,
     "language": "tr",
     "authors": [
@@ -3029,7 +3028,7 @@
     "tvTypes": [
       "AsianDrama"
     ],
-    "version": 23,
+    "version": 24,
     "internalName": "DiziKorea",
     "description": "En Güncel Kore Dizileri izleme Sitesi",
     "url": "https://raw.githubusercontent.com/feroxx/Kekik-cloudstream/builds/DiziKorea.cs3",
@@ -3194,7 +3193,7 @@
     "iconUrl": "https://www.google.com/s2/favicons?domain=fullhdfilm.us&sz=%size%",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/feroxx/Kekik-cloudstream",
-    "fileSize": 18122,
+    "fileSize": 18177,
     "status": 1,
     "language": "tr",
     "authors": [
@@ -3204,7 +3203,7 @@
       "Movie",
       "TvSeries"
     ],
-    "version": 29,
+    "version": 30,
     "internalName": "FullHDFilm",
     "description": "Fullhdfilm ile en yeni vizyon filmler Full HD ve kesintisiz film sizlerle. Özgün film arşivimizle en üstün kaliteli film izle keyfini sunuyoruz.",
     "url": "https://raw.githubusercontent.com/feroxx/Kekik-cloudstream/builds/FullHDFilm.cs3",
@@ -3334,7 +3333,7 @@
     "iconUrl": "https://netfree2.cc/mobile/img/nf2/icon_x192.png",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/feroxx/Kekik-cloudstream",
-    "fileSize": 36560,
+    "fileSize": 37977,
     "status": 1,
     "language": "hi",
     "authors": [
@@ -3345,7 +3344,7 @@
       "Movie",
       "TvSeries"
     ],
-    "version": 22,
+    "version": 23,
     "internalName": "NetflixMirror",
     "description": "Netflix, PrimeVideo Content in Multiple Languages",
     "url": "https://raw.githubusercontent.com/feroxx/Kekik-cloudstream/builds/NetflixMirror.cs3",
@@ -3609,7 +3608,7 @@
     "iconUrl": "https://www.4kfilmizleme.net/wp-content/uploads/2022/09/4kfilmizlemefavicon-1.png",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/Kraptor123/cs-kekikanime",
-    "fileSize": 25955,
+    "fileSize": 25952,
     "status": 1,
     "language": "tr",
     "authors": [
@@ -3647,7 +3646,7 @@
     "iconUrl": "https://www.google.com/s2/favicons?domain=animecix.net&sz=%size%",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/Kraptor123/cs-kekikanime",
-    "fileSize": 27223,
+    "fileSize": 27226,
     "status": 1,
     "language": "tr",
     "authors": [
@@ -3728,7 +3727,7 @@
     "iconUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQLGJxL_3l-lZofrxkC-vpKFzHzyKW-Z0lYg&s",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/Kraptor123/cs-kekikanime",
-    "fileSize": 26107,
+    "fileSize": 26108,
     "status": 1,
     "language": "tr",
     "authors": [
@@ -3806,7 +3805,7 @@
     "iconUrl": "https://www.google.com/s2/favicons?domain=cizgimax.online&sz=%size%",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/Kraptor123/cs-kekikanime",
-    "fileSize": 20129,
+    "fileSize": 20133,
     "status": 1,
     "language": "tr",
     "authors": [
@@ -3922,7 +3921,7 @@
     "iconUrl": "https://www.google.com/s2/favicons?domain=https://dizikorea.vip&sz=%size%",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/Kraptor123/cs-kekikanime",
-    "fileSize": 18662,
+    "fileSize": 18659,
     "status": 1,
     "language": "tr",
     "authors": [
@@ -3960,7 +3959,7 @@
     "iconUrl": "https://www.google.com/s2/favicons?domain=dizilla.club&sz=%size%",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/Kraptor123/cs-kekikanime",
-    "fileSize": 27418,
+    "fileSize": 27439,
     "status": 1,
     "language": "tr",
     "authors": [
@@ -3970,7 +3969,7 @@
     "tvTypes": [
       "TvSeries"
     ],
-    "version": 22,
+    "version": 24,
     "internalName": "Dizilla",
     "description": "Dizilla tüm yabancı dizileri ücretsiz olarak Türkçe Dublaj ve altyazılı seçenekleri ile 1080P kalite izleyebileceğiniz yeni nesil yabancı dizi izleme siteniz.",
     "url": "https://raw.githubusercontent.com/Kraptor123/cs-kekikanime/builds/Dizilla.cs3",
@@ -3980,7 +3979,7 @@
     "iconUrl": "https://www.google.com/s2/favicons?domain=dizimag.net&sz=%size%",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/Kraptor123/cs-kekikanime",
-    "fileSize": 29099,
+    "fileSize": 29098,
     "status": 1,
     "language": "tr",
     "authors": [
@@ -3999,7 +3998,7 @@
     "iconUrl": "https://www.google.com/s2/favicons?domain=www.dizimom.tv&sz=%size%",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/Kraptor123/cs-kekikanime",
-    "fileSize": 29739,
+    "fileSize": 29740,
     "status": 1,
     "language": "tr",
     "authors": [
@@ -4215,7 +4214,7 @@
     "iconUrl": "https://www.google.com/s2/favicons?domain=www.filmmodu17.com&sz=%size%",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/Kraptor123/cs-kekikanime",
-    "fileSize": 14760,
+    "fileSize": 14761,
     "status": 1,
     "language": "tr",
     "authors": [
@@ -4311,7 +4310,7 @@
     "iconUrl": "https://hdfilm.cx/apple-touch-icon.png",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/Kraptor123/cs-kekikanime",
-    "fileSize": 25780,
+    "fileSize": 25783,
     "status": 1,
     "language": "tr",
     "authors": [
@@ -4330,7 +4329,7 @@
     "iconUrl": "https://www.google.com/s2/favicons?domain=hdfilmcehennemi.com&sz=%size%",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/Kraptor123/cs-kekikanime",
-    "fileSize": 24499,
+    "fileSize": 24500,
     "status": 1,
     "language": "tr",
     "authors": [
@@ -4391,7 +4390,7 @@
     "iconUrl": "https://www.google.com/s2/favicons?domain=hdfilmsitesi.net&sz=%size%",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/Kraptor123/cs-kekikanime",
-    "fileSize": 22823,
+    "fileSize": 22820,
     "status": 1,
     "language": "tr",
     "authors": [
@@ -4470,16 +4469,17 @@
     "iconUrl": "https://www.google.com/s2/favicons?domain=https://jetfilmizle.de&sz=%size%",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/Kraptor123/cs-kekikanime",
-    "fileSize": 14619,
+    "fileSize": 18571,
     "status": 1,
     "language": "tr",
     "authors": [
-      "keyiflerolsun"
+      "keyiflerolsun",
+      "kraptor"
     ],
     "tvTypes": [
       "Movie"
     ],
-    "version": 22,
+    "version": 23,
     "internalName": "JetFilmizle",
     "description": "Binlerce Film İzleme Seçeneğiyle En İyi Film İzleme Sitesi",
     "url": "https://raw.githubusercontent.com/Kraptor123/cs-kekikanime/builds/JetFilmizle.cs3",
@@ -4590,17 +4590,17 @@
     "iconUrl": "https://www.google.com/s2/favicons?domain=roketdizi.co&sz=%size%",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/Kraptor123/cs-kekikanime",
-    "fileSize": 25407,
+    "fileSize": 24123,
     "status": 1,
     "language": "tr",
     "authors": [
-      "nikyokki",
+      "keyiflerolsun",
       "kraptor"
     ],
     "tvTypes": [
       "TvSeries"
     ],
-    "version": 11,
+    "version": 15,
     "internalName": "RoketDizi",
     "description": "Türkiye'nin en tatlış yabancı dizi izleme sitesi. Türkçe dublaj, altyazılı, eski ve yeni yabancı dizilerin yanı sıra kore (asya) dizileri izleyebilirsiniz.",
     "url": "https://raw.githubusercontent.com/Kraptor123/cs-kekikanime/builds/RoketDizi.cs3",
@@ -4630,7 +4630,7 @@
     "iconUrl": "https://www.google.com/s2/favicons?domain=sezonlukdizi6.com&sz=%size%",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/Kraptor123/cs-kekikanime",
-    "fileSize": 18729,
+    "fileSize": 18726,
     "status": 1,
     "language": "tr",
     "authors": [
@@ -4670,7 +4670,7 @@
     "iconUrl": "https://www.google.com/s2/favicons?domain=www.sinema.cx&sz=%size%",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/Kraptor123/cs-kekikanime",
-    "fileSize": 13920,
+    "fileSize": 13918,
     "status": 1,
     "language": "tr",
     "authors": [
@@ -4689,7 +4689,7 @@
     "iconUrl": "https://www.google.com/s2/favicons?domain=www.superfilmgeldi.biz&sz=%size%",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/Kraptor123/cs-kekikanime",
-    "fileSize": 18178,
+    "fileSize": 18180,
     "status": 1,
     "language": "tr",
     "authors": [
@@ -4882,7 +4882,7 @@
     "iconUrl": "https://www.google.com/s2/favicons?domain=yabancidizi.tv&sz=%size%",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/Kraptor123/cs-kekikanime",
-    "fileSize": 38923,
+    "fileSize": 38925,
     "status": 1,
     "language": "tr",
     "authors": [
@@ -12779,7 +12779,7 @@
     "iconUrl": "https://github.com/SaurabhKaperwan/CSX/raw/refs/heads/master/CineStream/icon.jpg",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/SaurabhKaperwan/CSX",
-    "fileSize": 280321,
+    "fileSize": 280315,
     "status": 1,
     "authors": [
       "megix"
@@ -13096,7 +13096,7 @@
     "iconUrl": "https://www.google.com/s2/favicons?domain=animekai.to&sz=%size%",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
-    "fileSize": 31939,
+    "fileSize": 30822,
     "status": 1,
     "language": "en",
     "authors": [
@@ -13107,7 +13107,7 @@
       "OVA",
       "AnimeMovie"
     ],
-    "version": 26,
+    "version": 27,
     "internalName": "AnimeKai",
     "description": "Animes & Animes Movie",
     "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/AnimeKai.cs3",
@@ -13203,6 +13203,29 @@
     "description": "Animes (SUB/DUB)",
     "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/AnimePahe.cs3",
     "name": "AnimePahe"
+  },
+  {
+    "iconUrl": "https://myanimeworld.in/public/img/AWI-SiteTitle-1.png",
+    "jarFileSize": 84309,
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
+    "fileSize": 20678,
+    "status": 1,
+    "language": "hi",
+    "authors": [
+      "Phisher98"
+    ],
+    "tvTypes": [
+      "AnimeMovie",
+      "Anime",
+      "Cartoon"
+    ],
+    "version": 2,
+    "internalName": "AnimeWorld",
+    "jarUrl": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/AnimeWorld.jar",
+    "description": "Anime/Cartoon in Hindi",
+    "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/AnimeWorld.cs3",
+    "name": "AnimeWorld"
   },
   {
     "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://animexin.top&size=%size%",
@@ -13362,10 +13385,10 @@
   },
   {
     "iconUrl": "https://raw.githubusercontent.com/phisher98/TVVVV/refs/heads/main/4KHDHUB-Bright-Logo.png",
-    "jarFileSize": 133018,
+    "jarFileSize": 122265,
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
-    "fileSize": 27955,
+    "fileSize": 27158,
     "status": 1,
     "language": "en",
     "authors": [
@@ -13375,7 +13398,7 @@
       "Movie",
       "TvSeries"
     ],
-    "version": 5,
+    "version": 8,
     "internalName": "FourKHDHub",
     "jarUrl": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/FourKHDHub.jar",
     "description": "4K Movies Extension by HDHUB4U",
@@ -13406,10 +13429,10 @@
   },
   {
     "iconUrl": "https://hdhub4u.mn/hdhub4ulogo.webp",
-    "jarFileSize": 203343,
+    "jarFileSize": 207216,
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
-    "fileSize": 43049,
+    "fileSize": 44084,
     "status": 1,
     "language": "hi",
     "authors": [
@@ -13420,7 +13443,7 @@
       "TvSeries",
       "Anime"
     ],
-    "version": 16,
+    "version": 19,
     "internalName": "HDhub4u",
     "jarUrl": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/HDhub4u.jar",
     "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/HDhub4u.cs3",
@@ -13708,10 +13731,10 @@
   },
   {
     "iconUrl": "https://raw.githubusercontent.com/LikDev-256/likdev256-tamil-providers/master/MultiMoviesProvider/icon.png",
-    "jarFileSize": 167758,
+    "jarFileSize": 152573,
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
-    "fileSize": 36735,
+    "fileSize": 32780,
     "status": 1,
     "language": "hi",
     "authors": [
@@ -13722,7 +13745,7 @@
       "TvSeries",
       "Anime"
     ],
-    "version": 40,
+    "version": 42,
     "internalName": "MultiMoviesProvider",
     "jarUrl": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/MultiMoviesProvider.jar",
     "description": "Indian Multi-language HD Provider",
@@ -13750,10 +13773,10 @@
   },
   {
     "iconUrl": "https://raw.githubusercontent.com/Rowdy-Avocado/Rowdycado-Extensions/master/logos/onepace.png",
-    "jarFileSize": 119943,
+    "jarFileSize": 137413,
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
-    "fileSize": 25090,
+    "fileSize": 29101,
     "status": 1,
     "language": "en",
     "authors": [
@@ -13762,7 +13785,7 @@
     "tvTypes": [
       "Anime"
     ],
-    "version": 9,
+    "version": 10,
     "internalName": "OnePace",
     "jarUrl": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/OnePace.jar",
     "description": "One Pace",
@@ -13946,7 +13969,7 @@
     "iconUrl": "https://i3.wp.com/yt3.googleusercontent.com/ytc/AIdro_nCBArSmvOc6o-k2hTYpLtQMPrKqGtAw_nC20rxm70akA=s900-c-k-c0x00ffffff-no-rj?ssl=1",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
-    "fileSize": 693834,
+    "fileSize": 700367,
     "status": 1,
     "language": "en",
     "authors": [
@@ -13962,7 +13985,7 @@
       "Cartoon",
       "AnimeMovie"
     ],
-    "version": 290,
+    "version": 294,
     "internalName": "StreamPlay",
     "description": "#1 best extention based on MultiAPI",
     "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/StreamPlay.cs3",
@@ -14056,10 +14079,10 @@
   },
   {
     "iconUrl": "https://toonhub4u.me/wp-content/uploads/2024/02/Untitled.png",
-    "jarFileSize": 64912,
+    "jarFileSize": 67553,
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
-    "fileSize": 15659,
+    "fileSize": 17170,
     "status": 1,
     "language": "hi",
     "authors": [
@@ -14070,7 +14093,7 @@
       "Anime",
       "Cartoon"
     ],
-    "version": 4,
+    "version": 5,
     "internalName": "ToonHub",
     "jarUrl": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/ToonHub.jar",
     "description": "ToonHub Multi Language",
@@ -14079,10 +14102,10 @@
   },
   {
     "iconUrl": "https://www.google.com/s2/favicons?domain=tooniboy.com&sz=%size%",
-    "jarFileSize": 101248,
+    "jarFileSize": 103887,
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
-    "fileSize": 23726,
+    "fileSize": 25271,
     "status": 1,
     "language": "hi",
     "authors": [
