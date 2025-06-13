@@ -6,7 +6,7 @@
 ---
 
 <p align="center">
-  <img src="https://github.com/WantedGang/WG-EpicRepo/blob/master/EpicRepo.png" alt="EpicRepo Banner" width="500"/>
+  <img src="https://github.com/WantedGang/WG-EpicRepo/blob/master/EpicRepo.png" alt="EpicRepo Banner" width="800"/>
 </p>
 
 ---
