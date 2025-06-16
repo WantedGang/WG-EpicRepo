@@ -1,0 +1,8 @@
+{
+    "name": "EpicRepo",
+    "description": "Mix repo Mix life",
+    "manifestVersion": 1,
+    "pluginLists": [
+      "https://raw.githubusercontent.com/WantedGang/WG-EpicRepo/master/plugins.json"
+    ]
+}
